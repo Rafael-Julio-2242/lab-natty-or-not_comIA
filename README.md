@@ -23,7 +23,7 @@ E então utilizei o GAMMA para a geração de slides no formato de Ebook
 
 O resultado foi este:
 
-[Uploading Ebook-Introducao-a-Programacao-Desvendando-os-Conceitos-Fundamentais.pdf…]()
+[Ebook-Introducao-a-Programacao-Desvendando-os-Conceitos-Fundamentais.pdf…]()
 
 
 ## 💭 Reflexão (Opcional)
