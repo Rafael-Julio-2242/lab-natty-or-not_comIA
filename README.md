@@ -25,6 +25,8 @@ O resultado foi este:
 
 [Ebook-Introducao-a-Programacao-Desvendando-os-Conceitos-Fundamentais.pdf…]()
 
+https://gamma.app/public/Ebook-Introducao-a-Programacao---Desvendando-os-Conceitos-Fundame-19xm5i0a232f9jz
+
 
 ## 💭 Reflexão (Opcional)
 Foi bem fácil e rápido criar esse Ebook com a utilização da Inteligência Artificial, me fez pensar em fazer isso outras vezes para agilizar alguns trabalhos que tenho.
