@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Totalmente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook com o intuito de fornecer uma introdução a programação
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Gamma
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi o seguinte Prompt: 
+"Eu gostaria que você criasse um texto no formato de Ebook para mim
+
+Esse ebook deve ser sobre uma introdução a programação, levando em consideração TODOS OS CONCEITOS BÁSICOS MAIS IMPORTANTES para começar a aprender programação.
+
+Não é necessário ensinar sobre linguagens específicas, porém podem sim ser mencionadas as linguagens mais utilizadas no mercado atualmente e para o que elas são mais utilizadas.
+
+Pode utilizar estruturas de bullet points, parágrafos, títulos e tudo mais que faça sentido para que fique um texto interessante e conciso. Tente focar em um conteúdo que seja necessário a programação em si, ou seja, conteúdo que possa ser aplicável a toda em qualquer linguagem de programação. "
+
+E então utilizei o GAMMA para a geração de slides no formato de Ebook
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O resultado foi este:
+
+[Uploading Ebook-Introducao-a-Programacao-Desvendando-os-Conceitos-Fundamentais.pdf…]()
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi bem fácil e rápido criar esse Ebook com a utilização da Inteligência Artificial, me fez pensar em fazer isso outras vezes para agilizar alguns trabalhos que tenho.
